@@ -4,25 +4,16 @@ module.exports = function() {
 
         users: [
             {
-                id: 100, name: 'Svetlana Solovieva', balance: 550
+                id: 1000, name: 'Denis', balance: 0, email: 'mai_den@mail.ru'
             },
             {
-                id: 101, name: 'Andrey Dauze', balance: 1050
+                id: 100, name: 'Test User 1', balance: 0, email: 'test@1'
             },
             {
-                id: 101, name: 'Andrey Ivanov', balance: 150
+                id: 101, name: 'Test User 2', balance: 0, email: 'test@2'
             },
             {
-                id: 101, name: 'Denis Petrov', balance: 800
-            },
-            {
-                id: 101, name: 'Olga Solovieva', balance: 350
-            },
-            {
-                id: 101, name: 'Petr Anisimov', balance: 1000
-            },
-            {
-                id: 101, name: 'Alexey Yakov', balance: 445
+                id: 101, name: 'Test User 3', balance: 0, email: 'test@3'
             }
         ]
 
